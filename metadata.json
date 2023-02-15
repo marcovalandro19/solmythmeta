@@ -1,0 +1,23 @@
+{
+    "name": "Sol Myth",
+    "symbol": "NFT",
+    "description": "Star Atlas and Sol Myth are giving away one NFT from the Miss T's collection. You get a small amount of ATLAS tokens and free NFT. You must have this whitelist token on your account to participate. Giveaway until 20.02.2023.",
+    "seller_fee_basis_points": 0,
+    "image": "https://misstsnfts.xyz/img/SC_SAMPLE_1.jpg",
+    "external_url": "https://sol-myths.com/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://misstsnfts.xyz/img/SC_SAMPLE_1.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "GBWpoaQZpJo88aBMcPvBQnUeEoPJUSBS4cAC37zm53v8",
+                "share": 100
+            }
+        ]
+    }
+}
